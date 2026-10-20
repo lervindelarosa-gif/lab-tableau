@@ -1,4 +1,4 @@
-[![Tableau Dashboard Preview](images/dashboard-preview.png)](https://public.tableau.com/app/profile/lervin.de.la.rosa/viz/KPICompletionTablau/Dashboard1?publish=yes)
+[![View Dashboard](https://img.shields.io/badge/View%20on-Tableau%20Public-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/lervin.de.la.rosa/viz/KPICompletionTablau/Dashboard1?publish=yes)
 
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
